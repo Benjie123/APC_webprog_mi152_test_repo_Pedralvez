@@ -1,4 +1,4 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <center><div><img src="playing.gif"style="width:600px;height:404px;"></div>
 </center>
@@ -34,10 +34,6 @@ tr:nth-child(even) {
 #form {
 	color: white;
 }
-
-.move {
-	text-align: center;
-}
 </style>
 </head>
 <body>
@@ -65,7 +61,7 @@ tr:nth-child(even) {
     <td style="color:White;"=>Football</td>
     <td style="color:White;"=>Assemble Fast Computers</td>   	
   </tr>
-  <div class="move"><img src="website.gif" WIDTH="625" HEIGHT="320"></div>
+  <img src="website.gif" WIDTH="625" HEIGHT="320">
   <table>
   <tr>
   <th style="text-align:center; color:White;"=><font size="7">Trivia About Me!</font></th>
