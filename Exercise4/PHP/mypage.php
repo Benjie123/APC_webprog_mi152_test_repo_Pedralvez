@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <center><div><img src="playing.gif"style="width:600px;height:404px;"></div>
 </center>
@@ -16,23 +16,22 @@ table {
     border-collapse: collapse;
     width: 100%;
 }
-
 td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
-
 tr:nth-child(even) {
     background-color: Blue;
 }
-
 .error {
 	color : red;
 }
-
 #form {
 	color: white;
+}
+.move {
+	text-align: center;
 }
 </style>
 </head>
@@ -61,7 +60,7 @@ tr:nth-child(even) {
     <td style="color:White;"=>Football</td>
     <td style="color:White;"=>Assemble Fast Computers</td>   	
   </tr>
-  <img src="website.gif" WIDTH="625" HEIGHT="320">
+  <div class="move"><img src="website.gif" WIDTH="625" HEIGHT="320"></div>
   <table>
   <tr>
   <th style="text-align:center; color:White;"=><font size="7">Trivia About Me!</font></th>
@@ -93,7 +92,6 @@ Click Me to find out!</button>
 // define variables and set to empty values
 $nameErr = $emailErr = $genderErr = $nickErr = "";
 $name = $email = $gender = $comment = $nick = $home = $num = "";
-
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if (empty($_POST["name"])) {
     $nameErr = "Name is required";
@@ -138,13 +136,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
   }
   
-
   if (empty($_POST["comment"])) {
     $comment = "";
   } else {
     $comment = test_input($_POST["comment"]);
   }
-
   if (empty($_POST["gender"])) {
     $genderErr = "Gender is required";
   } else {
@@ -152,7 +148,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
   
 }
-
 function test_input($data) {
   $data = trim($data);
   $data = stripslashes($data);
@@ -202,7 +197,6 @@ echo $num;
 echo "<br>";
 echo $comment;
 echo "<br>";
-
 ?>
 </div>
 </body>
