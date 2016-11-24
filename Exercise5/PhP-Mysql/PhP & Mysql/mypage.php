@@ -60,13 +60,13 @@ tr:nth-child(even) {
     <th style="color:White;"=>Hobbies</th>
     <th style="color:White;"=>Interest</th>
   </tr>
-  <img src="playing computer.gif" WIDTH="630" HEIGHT="320">
+  <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
     <td><a href="https://www.youtube.com/" style="color: white;">Youtube</a></td>
     <td style="color:White;">Playing Computer Games</td>
     <td style="color:White;">Playing More Computer Games</td>
   </tr>
-  <img src="football.gif" WIDTH="630" HEIGHT="320">
+  <img src="football.gif" WIDTH="666" HEIGHT="320">
   <tr>
     <td><a href="https://www.facebook.com/" style="color: white;">Facebook</td>
     <td style="color:White;"=>Sleeping</td>
