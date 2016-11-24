@@ -3,8 +3,25 @@
 <center><div><img src="playing.gif"style="width:600px;height:404px;"></div>
 </center>
 <body background="gaming.png.png">
+<style>
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-family: cursive;
+	font-weight: bold;
+}
 
-<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin T Pedralvez III</h1>
+a:hover {
+	opacity: 0.7;
+	color: blue;
+}
+</style>
+<center>
+<br><br>
+<a href="index.php">CREATE DATABASE</a>
+</center>
+<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin Pedralvez</h1>
 <p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
  Benjie</p>
                                                                  
@@ -47,7 +64,7 @@ tr:nth-child(even) {
   <tr>
     <td><a href="https://www.youtube.com/" style="color: white;">Youtube</a></td>
     <td style="color:White;">Playing Computer Games</td>
-    <td style="color:White;">Play More Computer Games</td>
+    <td style="color:White;">Playing More Computer Games</td>
   </tr>
   <img src="football.gif" WIDTH="630" HEIGHT="320">
   <tr>
