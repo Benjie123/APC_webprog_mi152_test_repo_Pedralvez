@@ -4,7 +4,7 @@
 </center>
 <body background="gaming.png.png">
 
-<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin Pedralvez</h1>
+<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin T Pedralvez</h1>
 <p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
  Benjie</p>
                                                                  
