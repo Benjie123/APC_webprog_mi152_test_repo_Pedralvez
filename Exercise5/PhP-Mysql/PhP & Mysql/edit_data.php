@@ -23,7 +23,11 @@ if(isset($_POST['btn-update']))
  // sql query for update data into database
  
  // sql query execution function
+<<<<<<< HEAD
  if(mysqli_query($con, $sql_query))
+=======
+ if(mysqli_query($sql_query))
+>>>>>>> 9f376fe8453f95709acbb88dec593e9abe7cc8a1
  {
   ?>
   <script type="text/javascript">
