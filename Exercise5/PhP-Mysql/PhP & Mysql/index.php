@@ -62,6 +62,10 @@ function delete_id(id)
     <label>Database</label>
     </div>
 </div>
+<center>
+<br><br>
+<a href="mypage.php" style="text-decoration: none;color: white;font-size: 18px;font-family: cursive;font-weight: bold;">BACK HOME</a>
+</center>
 
 <div id="body">
  <div id="content">
