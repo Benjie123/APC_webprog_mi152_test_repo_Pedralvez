@@ -3,7 +3,24 @@
 <center><div><img src="playing.gif"style="width:600px;height:404px;"></div>
 </center>
 <body background="gaming.png.png">
+<style>
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	font-family: cursive;
+	font-weight: bold;
+}
 
+a:hover {
+	opacity: 0.7;
+	color: blue;
+}
+</style>
+<center>
+<br><br>
+<a href="index.php">CREATE DATABASE</a>
+</center>
 <h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin Pedralvez</h1>
 <p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
  Benjie</p>
@@ -43,13 +60,13 @@ tr:nth-child(even) {
     <th style="color:White;"=>Hobbies</th>
     <th style="color:White;"=>Interest</th>
   </tr>
-  <img src="playing computer.gif" WIDTH="630" HEIGHT="320">
+  <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
     <td><a href="https://www.youtube.com/" style="color: white;">Youtube</a></td>
     <td style="color:White;">Playing Computer Games</td>
     <td style="color:White;">Playing More Computer Games</td>
   </tr>
-  <img src="football.gif" WIDTH="630" HEIGHT="320">
+  <img src="football.gif" WIDTH="666" HEIGHT="320">
   <tr>
     <td><a href="https://www.facebook.com/" style="color: white;">Facebook</td>
     <td style="color:White;"=>Sleeping</td>
