@@ -6,23 +6,22 @@ if(isset($_POST['btn-save']))
  // variables for input data
  $complete_name = $_POST['complete_name'];
  $nickname = $_POST['nickname'];
- $email = $_POST['email'];
- $address = $_POST['address'];
+ $Email_Address = $_POST['Email_Address'];
+ $Home_Address = $_POST['Home_Address'];
  $gender = $_POST['gender'];
- $cellno = $_POST['cellno'];
+ $cellphone = $_POST['cellphone'];
  $comment = $_POST['comment'];
  // variables for input data
  
  // sql query for inserting data into database
  
-        $sql_query = "INSERT INTO users(complete_name,nickname,email,address,gender,cellno,comment) 
-		VALUES('$complete_name','$nickname','$email','$address','$gender','$cellno','$comment')";
+        $sql_query = "INSERT INTO users(complete_name,nickname,Email_Address,Home_Address,gender,cellphone,comment) 
+		VALUES('$complete_name','$nickname','$Email_Address','$Home_Address','$gender','$cellphone','$comment')";
  mysqli_query($con, $sql_query);
         
         // sql query for inserting data into database
  
 }
-
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -35,7 +34,7 @@ if(isset($_POST['btn-save']))
 
 <div id="header">
  <div id="content">
-    <label>Add Data Now</label>
+    <label>Adding Data</label>
     </div>
 </div>
 <div id="body">
@@ -52,10 +51,10 @@ if(isset($_POST['btn-save']))
     <td><input type="text" name="nickname" placeholder="Nickname" required /></td>
     </tr>
     <tr>
-    <td><input type="text" name="email" placeholder="Email Address" required /></td>
+    <td><input type="text" name="Email_Address" placeholder="Email Address" required /></td>
     </tr>
 	<tr>
-    <td><input type="text" name="address" placeholder="Home Address" required /></td>
+    <td><input type="text" name="Home_Address" placeholder="Home Address" required /></td>
     </tr>
 	<tr>
     <td>
@@ -64,10 +63,10 @@ if(isset($_POST['btn-save']))
 	</td>
     </tr>
 	<tr>
-    <td><input type="text" name="cellno" placeholder="Cellphone Number" required /></td>
+    <td><input type="number" name="cellphone" placeholder="Cellphone Number" required /></td>
     </tr>
 	 <td>Comment: <br>
-	 <textarea name="comment" rows="10" cols="140"></textarea>
+	 <textarea name="comment" placeholder="Comment" rows="5" cols="144"></textarea>
 	 </td>
     <tr>
     <td><button type="submit" name="btn-save"><strong>SAVE</strong></button></td>
@@ -76,6 +75,7 @@ if(isset($_POST['btn-save']))
     </form>
     </div>
 </div>
+
 
 </center>
 </body>
