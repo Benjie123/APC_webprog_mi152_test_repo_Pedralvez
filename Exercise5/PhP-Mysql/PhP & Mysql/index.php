@@ -125,8 +125,13 @@ tr:nth-child(even) {
 <table>
   <tr>
     <th style="color:White;"=>Favourite Websites</th>
+<<<<<<< HEAD
     <th style="color:White;"=>My Hobbies!</th>
     <th style="color:White;"=>My Interest!</th>
+=======
+    <th style="color:White;"=>My Hobbies</th>
+    <th style="color:White;"=>My Interest</th>
+>>>>>>> d3eba62ce9b340be7ba1129b2665771478f5423b
   </tr>
   <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
@@ -137,7 +142,11 @@ tr:nth-child(even) {
   <img src="football.gif" WIDTH="666" HEIGHT="321">
   <tr>
     <td><a href="https://www.facebook.com/" style="color: white;">Facebook</td>
+<<<<<<< HEAD
     <td style="color:White;"=>Sleeping and eating</td>
+=======
+    <td style="color:White;"=>Sleeping</td>
+>>>>>>> d3eba62ce9b340be7ba1129b2665771478f5423b
     <td style="color:White;"=>Learn something interesting about the course I'm taking and apply it to the real world</td>
   </tr>
   <tr>
