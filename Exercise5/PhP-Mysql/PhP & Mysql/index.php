@@ -90,7 +90,7 @@ th, td {
     </div>
 </div>
 <h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin T. Pedralvez</h1>
-<p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
+<p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in D0631 Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
  Benjie</p>
                                                                  
  <button type="button" style="background-color:white;margin-left:auto;margin-right:auto;display:block;margin-top:0%;margin-bottom:0%"onclick="document.getElementById('demo').style.fontSize='35px'">Click Me to make it bigger!</button>
