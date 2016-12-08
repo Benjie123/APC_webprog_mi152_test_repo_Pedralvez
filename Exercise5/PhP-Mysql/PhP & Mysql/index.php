@@ -136,8 +136,8 @@ tr:nth-child(even) {
   <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
     <td><a href="https://www.youtube.com/" style="color: white;">Youtube</a></td>
-    <td style="color:White;">Playing Computer Games</td>
-    <td style="color:White;">Playing More Computer Games</td>
+    <td style="color:White;">Playing Computer Games!</td>
+    <td style="color:White;">Playing More Computer Games!</td>
   </tr>
   <img src="football.gif" WIDTH="666" HEIGHT="321">
   <tr>
