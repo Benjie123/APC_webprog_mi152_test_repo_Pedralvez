@@ -138,7 +138,7 @@ tr:nth-child(even) {
   <tr>
     <td><a href="https://www.facebook.com/" style="color: white;">Facebook</td>
     <td style="color:White;"=>Sleeping</td>
-    <td style="color:White;"=>Learn anything useful in my Course</td>
+    <td style="color:White;"=>Learn something interesting about the course I'm taking and apply it to the real world</td>
   </tr>
   <tr>
     <td><a href="https://www.twitch.tv/" style="color: white;">Twitch.TV</td>
