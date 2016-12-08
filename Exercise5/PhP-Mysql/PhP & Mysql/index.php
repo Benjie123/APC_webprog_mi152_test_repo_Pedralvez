@@ -169,7 +169,7 @@ Click Me to find out!</button>
 </tr>
  <td style=" text-align:center;color:White;">
  What is my plan after I graduate?<p id="demo5">----------------</p>
-<button type="button" onclick="document.getElementById('demo5').innerHTML = 'After I graduate as BSIT-MI, I want to teach first in a public school for 2 years and pursue my dream to become a person who can fix and program things that make our lives easier!'">Click Me to find out!</button>
+<button type="button" onclick="document.getElementById('demo5').innerHTML = 'After I graduate as BSIT-MI, I want to teach first in a public school for 2 years just for experience and pursue my dream to become a person who can fix and program things that make our lives easier!'">Click Me to find out!</button>
 </td>
 </body>
   
