@@ -89,8 +89,8 @@ th, td {
     </table>
     </div>
 </div>
-<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin Pedralvez</h1>
-<p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
+<h1 style="text-align:center; color:White; font-family:comic sans ms">Benjamin T. Pedralvez</h1>
+<p style="text-align:center; color:White; font-family:comic sans ms" id="demo">Lives in D0631 Paoville Delta Fort Bonifacio Taguig City, 17 Years old, studying BSIT-MI at Asia Pacific College, Nickname:
  Benjie</p>
                                                                  
  <button type="button" style="background-color:white;margin-left:auto;margin-right:auto;display:block;margin-top:0%;margin-bottom:0%"onclick="document.getElementById('demo').style.fontSize='35px'">Click Me to make it bigger!</button>
@@ -125,8 +125,8 @@ tr:nth-child(even) {
 <table>
   <tr>
     <th style="color:White;"=>Favourite Websites</th>
-    <th style="color:White;"=>Hobbies</th>
-    <th style="color:White;"=>Interest</th>
+    <th style="color:White;"=>My Hobbies</th>
+    <th style="color:White;"=>My Interest</th>
   </tr>
   <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
@@ -134,16 +134,16 @@ tr:nth-child(even) {
     <td style="color:White;">Playing Computer Games</td>
     <td style="color:White;">Playing More Computer Games</td>
   </tr>
-  <img src="football.gif" WIDTH="666" HEIGHT="320">
+  <img src="football.gif" WIDTH="666" HEIGHT="321">
   <tr>
     <td><a href="https://www.facebook.com/" style="color: white;">Facebook</td>
     <td style="color:White;"=>Sleeping</td>
-    <td style="color:White;"=>Learn anything useful in my Course</td>
+    <td style="color:White;"=>Learn something interesting about the course I'm taking and apply it to the real world</td>
   </tr>
   <tr>
     <td><a href="https://www.twitch.tv/" style="color: white;">Twitch.TV</td>
-    <td style="color:White;"=>Football</td>
-    <td style="color:White;"=>Assemble Fast Computers</td>   	
+    <td style="color:White;"=>Football and badminton</td>
+    <td style="color:White;"=>Fix and Build Computer</td>   	
   </tr>
   <div class="move"><img src="website.gif" WIDTH="625" HEIGHT="320"></div>
   <table>
@@ -152,7 +152,7 @@ tr:nth-child(even) {
   </tr> 
   <td style=" text-align:center;color:White;">
  What is my Favourite Computer Game?<p id="demo1">----------------</p>
-<button type="button" onclick="document.getElementById('demo1').innerHTML = 'League Of Legends!'">Click Me to find out!</button> </td> 
+<button type="button" onclick="document.getElementById('demo1').innerHTML = 'League Of Legends and Dota 2!'">Click Me to find out!</button> </td> 
   </tr>
    <td style=" text-align:center;color:White;">
  What is my Food?<p id="demo2">----------------</p>
@@ -165,11 +165,11 @@ Click Me to find out!</button>
 </tr>
  <td style=" text-align:center;color:White;">
  What is my Dream?<p id="demo4">----------------</p>
-<button type="button" onclick="document.getElementById('demo4').innerHTML = 'My dream is to graduate as an Sucessful IT and earn a lot of money and repay my parents for what they ve done to me!'">Click Me to find out!</button>
+<button type="button" onclick="document.getElementById('demo4').innerHTML = 'My dream is to graduate as an Sucessful IT student and earn a lot of money and repay my parents for what they've done to me!'">Click Me to find out!</button>
 </tr>
  <td style=" text-align:center;color:White;">
  What is my plan after I graduate?<p id="demo5">----------------</p>
-<button type="button" onclick="document.getElementById('demo5').innerHTML = 'After I graduate as BSIT-MI, I want to teach first in a public school for 2 years and pursue my dream to become a person who can fix and program things that make our lives easier!'">Click Me to find out!</button>
+<button type="button" onclick="document.getElementById('demo5').innerHTML = 'After I graduate as BSIT-MI, I want to teach first in a public school for 2 years just for experience and pursue my dream to become a person who can fix and program things that make our lives easier!'">Click Me to find out!</button>
 </td>
 </body>
   
