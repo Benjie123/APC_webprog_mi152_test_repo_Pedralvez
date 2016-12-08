@@ -165,7 +165,7 @@ Click Me to find out!</button>
 </tr>
  <td style=" text-align:center;color:White;">
  What is my Dream?<p id="demo4">----------------</p>
-<button type="button" onclick="document.getElementById('demo4').innerHTML = 'My dream is to graduate as an Sucessful IT and earn a lot of money and repay my parents for what they ve done to me!'">Click Me to find out!</button>
+<button type="button" onclick="document.getElementById('demo4').innerHTML = 'My dream is to graduate as an Sucessful IT student and earn a lot of money and repay my parents for what they've done to me!'">Click Me to find out!</button>
 </tr>
  <td style=" text-align:center;color:White;">
  What is my plan after I graduate?<p id="demo5">----------------</p>
