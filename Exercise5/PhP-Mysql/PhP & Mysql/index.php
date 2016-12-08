@@ -143,7 +143,7 @@ tr:nth-child(even) {
   <tr>
     <td><a href="https://www.twitch.tv/" style="color: white;">Twitch.TV</td>
     <td style="color:White;"=>Football</td>
-    <td style="color:White;"=>Assemble Fast Computers</td>   	
+    <td style="color:White;"=>Fix and Build Computer</td>   	
   </tr>
   <div class="move"><img src="website.gif" WIDTH="625" HEIGHT="320"></div>
   <table>
