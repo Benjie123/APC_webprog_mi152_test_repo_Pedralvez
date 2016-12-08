@@ -126,7 +126,7 @@ tr:nth-child(even) {
   <tr>
     <th style="color:White;"=>Favourite Websites</th>
     <th style="color:White;"=>My Hobbies</th>
-    <th style="color:White;"=>Interest</th>
+    <th style="color:White;"=>My Interest</th>
   </tr>
   <img src="playing computer.gif" WIDTH="667" HEIGHT="320">
   <tr>
