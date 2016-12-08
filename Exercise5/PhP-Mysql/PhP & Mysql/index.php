@@ -152,7 +152,7 @@ tr:nth-child(even) {
   </tr> 
   <td style=" text-align:center;color:White;">
  What is my Favourite Computer Game?<p id="demo1">----------------</p>
-<button type="button" onclick="document.getElementById('demo1').innerHTML = 'League Of Legends!'">Click Me to find out!</button> </td> 
+<button type="button" onclick="document.getElementById('demo1').innerHTML = 'League Of Legends and Dota 2!'">Click Me to find out!</button> </td> 
   </tr>
    <td style=" text-align:center;color:White;">
  What is my Food?<p id="demo2">----------------</p>
